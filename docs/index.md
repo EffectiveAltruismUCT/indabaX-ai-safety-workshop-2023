@@ -1,6 +1,6 @@
 # First South African Workshop on AI Safety and Governance @ IndabaX 2023
 
-<img src="assets/images/EA_UCT_IndabaX.jpg.png"  width="400" height="200" alt="EA UCT at IndabaX South Africa">
+<img src="assets/images/EA_UCT_IndabaX.jpg"  width="400" height="200" alt="EA UCT at IndabaX South Africa">
 
 > The First South African Workshop on AI Safety and Governance is a multi-disciplinary workshop organised by Effective Altruism UCT and will be hosted at IndabaX. 
 
@@ -17,16 +17,16 @@
 
 # Speakers
 
+<img src="assets/images/jonas.jpeg" width="200" height="200" alt="Jonas">
 [Jonas Kgomo](https://www.linkedin.com/in/jonas-kgomo/)
-<img src="assets/images/jonas.jpg" width="200" height="200" alt="Jonas">
 
+<img src="assets/images/zainab.jpeg" width="200" height="200" alt="Zainab">
 [Zainab Chirwa](https://www.linkedin.com/in/zainab-chirwa-16734855/)
-<img src="assets/images/zainab.jpg" width="200" height="200" alt="Zainab">
 
+<img src="assets/images/ben.jpeg" width="200" height="200" alt="Ben">
 [Benjamin Sturgeon](https://www.linkedin.com/in/benjamin-sturgeon-41221241/)
-<img src="assets/images/ben.jpg" width="200" height="200" alt="Ben">
 
 # Organiser
 
+<img src="assets/images/claude.jpeg" width="200" height="200" alt="Claude">
 [Claude Formanek](https://www.linkedin.com/in/claude-formanek/)
-<img src="assets/images/claude.jpg" width="200" height="200" alt="Claude">
