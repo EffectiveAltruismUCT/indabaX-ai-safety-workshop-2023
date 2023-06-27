@@ -1,5 +1,3 @@
-# First South African Workshop on AI Safety and Governance @ IndabaX 2023
-
 <img src="assets/images/EA_UCT_IndabaX.jpg"  width="400" height="200" alt="EA UCT at IndabaX South Africa">
 
 > The First South African Workshop on AI Safety and Governance is a multi-disciplinary workshop organised by Effective Altruism UCT and will be hosted at IndabaX. 
@@ -7,12 +5,15 @@
 # Program
 
 > Talk Title: A Guided Walk Through the African AI Safety Landscape
+>
 > Speaker: Jonas Kgomo (Equiano Research Lab)
 
 > Talk Title: Perspectives on AI Governance in Africa
+>
 > Speaker: Zainab Chirwa (Effective Altruism UCT Chair and LLB Student at UCT)
 
 > Talk Title: An Introduction to Technical AI Safety Research
+>
 > Speaker: Benjamin Sturgeon (Independent AI Safety Researcher and OpenPhilanthropy Grantee)
 
 # Speakers
