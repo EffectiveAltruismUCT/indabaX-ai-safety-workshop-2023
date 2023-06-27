@@ -1,0 +1,7 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jemoji
+  - jekyll-seo-tag
+title: First South African Workshop on AI Safety @ IndabaX 2023
+description: A multi-disciplinary workshop on AI safety and governance in Africa
