@@ -36,7 +36,7 @@ Zainab is the chair of the Effective Altruism student society at the University 
 
 ### <img src="assets/images/ben.jpeg" width="200" height="200" alt="Ben">
 
-Ben is an independent AI Safety researcher and recipient of a Long Term Future Fund research grant. Ben has over 3 years of experience as a machine learning engineer working in industry but recently left industry to persue AI safety research fulltime. 
+Ben is an independent AI Safety researcher and recipient of a [Long Term Future Fund](https://funds.effectivealtruism.org/funds/far-future) research grant. Ben has over 3 years of experience as a machine learning engineer working in industry but recently left industry to persue AI safety research fulltime. 
 
 # Organiser
 
