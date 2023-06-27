@@ -9,7 +9,7 @@ The First South African Workshop on AI Safety and Governance is a multi-discipli
 > Talk Title: A Guided Walk Through the African AI Safety Landscape
 >
 > Speaker: Jonas Kgomo (Equiano Research Lab)
->
+
 > Talk Title: Perspectives on AI Governance in Africa
 >
 > Speaker: Zainab Chirwa (Effective Altruism UCT Chair and LLB Student at UCT)
@@ -34,9 +34,9 @@ Zainab is the chair of the Effective Altruism student society at the University 
 
 [Benjamin Sturgeon](https://www.linkedin.com/in/benjamin-sturgeon-41221241/)
 
-Ben is an independent AI Safety researcher and recipient of a Long Term Future Fund research grant. Ben has over 3 years of experience as a machine learning engineer working in industry but recently left industry to persue AI safety research fulltime. 
-
 ### <img src="assets/images/ben.jpeg" width="200" height="200" alt="Ben">
+
+Ben is an independent AI Safety researcher and recipient of a Long Term Future Fund research grant. Ben has over 3 years of experience as a machine learning engineer working in industry but recently left industry to persue AI safety research fulltime. 
 
 # Organiser
 
