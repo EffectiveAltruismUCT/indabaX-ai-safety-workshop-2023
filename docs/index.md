@@ -1,4 +1,4 @@
-# First South African Workshop on AI Safety
+# First South African Workshop on AI Safety & Governance
 
 <img src="assets/images/EA_UCT_IndabaX.jpg"  width="400" height="200" alt="EA UCT at IndabaX South Africa">
 
