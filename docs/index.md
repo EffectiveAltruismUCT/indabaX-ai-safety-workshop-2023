@@ -30,7 +30,7 @@ Jonas is the founder of Equiano Research Lab (ERL), a new grassroots African AI 
 
 <img src="assets/images/zainab.jpeg" width="200" height="200" alt="Zainab">
 
-Zainab is the chair of the Effective Altruism student society at the University of Cape Town (UCT). She is also an LLB Student at UCT with a background in geopolitics studies. Zainab is interested in governance structures and the development of effective policy for positive impact. Recently Zainab has become interested in AI governance and is currently a mentee on an AI governance mentorship program.
+Zainab is a final year LLB student at the University of Cape Town and a graduate of Rhodes University having majored in Geography and legal theory. She is the current chairperson of the Effective Altruism student society at the University of Cape Town. Zainab is interested in issues of governance the development of effective policy for positive impact. She is currently involved in researching current proposals and drafting of global AI governance frameworks.
 
 [Benjamin Sturgeon](https://www.linkedin.com/in/benjamin-sturgeon-41221241/)
 
