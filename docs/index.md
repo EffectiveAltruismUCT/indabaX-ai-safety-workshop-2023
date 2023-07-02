@@ -43,3 +43,5 @@ Ben, based in Cape Town, used to work as a machine learning engineer. He's now f
 ### [Claude Formanek](https://www.linkedin.com/in/claude-formanek/)
 
 <img src="assets/images/claude.jpeg" width="200" height="200" alt="Claude">
+
+Check out our [resources](/resources.html) for further reading and ways to connect further.
