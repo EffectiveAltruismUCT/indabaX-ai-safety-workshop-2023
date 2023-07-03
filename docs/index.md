@@ -1,4 +1,8 @@
-# First South African Workshop on AI Safety & Governance
+---
+layout: default
+featured_image: "assets/images/UCT.jpeg"
+title: "The First South African Workshop on AI Safety and Governance"
+---
 
 <img src="assets/images/EA_UCT_IndabaX.jpg"  width="400" height="200" alt="EA UCT at IndabaX South Africa">
 
