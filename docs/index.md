@@ -9,13 +9,13 @@ The First South African Workshop on AI Safety and Governance is a multi-discipli
 
 # Program
 
-> Talk Title: A Guided Walk Through the African AI Safety Landscape
+> Talk Title: A Guided Walk Through the African AI Safety Landscape  
 > Speaker: Jonas Kgomo (Equiano Research Lab)
 
-> Talk Title: Perspectives on AI Governance in Africa
+> Talk Title: Perspectives on AI Governance in Africa  
 > Speaker: Zainab Chirwa (Effective Altruism UCT Chair and LLB Student at UCT)
 
-> Talk Title: An Introduction to Technical AI Safety Research
+> Talk Title: An Introduction to Technical AI Safety Research  
 > Speaker: Benjamin Sturgeon (Independent AI Safety Researcher)
 
 # Speakers
