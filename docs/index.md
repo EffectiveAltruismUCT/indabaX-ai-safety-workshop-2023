@@ -1,5 +1,5 @@
 ---
-featured_image: "assets/images/UCT.jpeg"
+featured_image: "assets/images/UCT.jpg"
 title: "The First South African Workshop on AI Safety and Governance"
 ---
 
