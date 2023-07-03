@@ -1,5 +1,4 @@
 ---
-layout: default
 featured_image: "assets/images/UCT.jpeg"
 title: "The First South African Workshop on AI Safety and Governance"
 ---
