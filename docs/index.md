@@ -45,4 +45,6 @@ Ben, based in Cape Town, used to work as a machine learning engineer. He's now f
 
 <img src="assets/images/claude.jpeg" width="200" height="200" alt="Claude">
 
+# Resources
+
 Check out our [resources](/resources.html) for further reading and ways to connect further.
