@@ -1,0 +1,43 @@
+---
+title: false
+styles: true
+---
+
+// Background colours
+$backgroundColour: #ffffff !default;
+$codeBackgroundColour: #fafafa !default;
+$featureBackgroundColour: #f9fafa !default;
+$accentColour: #6890c1 !default;
+
+// Text colours
+$headingColour: #6890c1 !default;
+$bodyColour: #384743 !default;
+$linkColour: #6890c1 !default;
+$hoverColour: #6890c1 !default;
+$focusColour: #6890c1 !default;
+$captionColour: #6890c1 !default;
+$white: #ffffff !default;
+
+// Typography
+$bodytype: (
+  font-family: "Roboto, sans-serif",
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: "Roboto, sans-serif",
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+$monospacetype: (
+  font-family: "Roboto, sans-serif",
+  regular: 400,
+  cap-height: 0.68
+) !default;
+
+@import "alembic";

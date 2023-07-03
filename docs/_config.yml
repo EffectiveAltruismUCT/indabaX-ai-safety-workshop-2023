@@ -1,7 +1,36 @@
-remote_theme: pages-themes/cayman@v0.2.0
+
+
+# Set theme
+remote_theme: daviddarnes/alembic@main
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
 plugins:
-  - jekyll-remote-theme
-  - jemoji
-  - jekyll-seo-tag
-title: First South African Workshop on AI Safety
-description: 14th of July 2023 @ IndabaX South Africa
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+title: 'First South African Workshop on AI Safety'
+description: '4th of July 2023 @ IndabaX South Africa'
+permalink: pretty
+logo: "assets/images/favicon.ico"
+
+# Header nav
+navigation_header:
+- title: Home
+  url: /
+- title: Resources
+  url: /resources

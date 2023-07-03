@@ -1,6 +1,7 @@
 ---
 layout: default
-title: AI Safety Resources
+featured_image: "assets/images/UCT.jpeg"
+title: "AI Safety Resources"
 ---
 
 # AI Safety Resources
