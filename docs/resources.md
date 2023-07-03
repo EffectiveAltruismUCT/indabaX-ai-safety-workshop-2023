@@ -1,5 +1,4 @@
 ---
-layout: default
 featured_image: "assets/images/UCT.jpeg"
 title: "AI Safety Resources"
 ---
