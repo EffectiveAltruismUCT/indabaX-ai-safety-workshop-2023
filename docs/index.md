@@ -47,4 +47,4 @@ Ben, based in Cape Town, used to work as a machine learning engineer. He's now f
 
 # Resources
 
-Check out our [resources](/resources.html) for further reading and ways to connect further.
+Check out our [resources](https://effectivealtruismuct.github.io/indabaX-ai-safety-workshop-2023/resources/) for further reading and ways to connect further.

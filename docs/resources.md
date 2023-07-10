@@ -1,6 +1,6 @@
 ---
 title: "AI Safety Resources"
-feature_image: "/assets/images/UCT.jpg"
+feature_image: "assets/images/UCT.jpg"
 feature_text:
 ---
 
