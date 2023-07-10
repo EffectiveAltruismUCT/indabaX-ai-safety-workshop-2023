@@ -1,6 +1,7 @@
 ---
-feature_image: "/assets/images/UCT.jpg"
 title: "AI Safety Resources"
+feature_image: "/assets/images/UCT.jpg"
+feature_text:
 ---
 
 Welcome to our AI Safety Resources page. Here you will find various resources to deepen your understanding of AI Safety, including newsletters to keep you up-to-date, links to external resources, and information about our Slack workspace.
