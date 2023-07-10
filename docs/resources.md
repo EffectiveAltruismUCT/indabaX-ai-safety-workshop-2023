@@ -1,5 +1,5 @@
 ---
-feature_image: "/assets/images/UCT.jpg"
+feature_image: "assets/images/UCT.jpg"
 title: "AI Safety Resources"
 ---
 

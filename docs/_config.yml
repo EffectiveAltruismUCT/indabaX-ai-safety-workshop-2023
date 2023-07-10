@@ -22,7 +22,7 @@ plugins:
 title: 'First South African Workshop on AI Safety'
 description: '4th of July 2023 @ IndabaX South Africa'
 permalink: pretty
-logo: "/assets/logos/robot_earth.png"
+logo: "assets/images/robot_earth.png"
 
 # Header nav
 navigation_header:
