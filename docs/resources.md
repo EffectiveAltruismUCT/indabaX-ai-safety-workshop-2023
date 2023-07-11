@@ -1,8 +1,10 @@
----
+<!-- ---
 title: "AI Safety Resources"
 feature_image: "assets/images/EA_UCT_IndabaX.jpg"
 feature_text:
----
+--- -->
+
+# AI Safety Resources
 
 Welcome to our AI Safety Resources page. Here you will find various resources to deepen your understanding of AI Safety, including newsletters to keep you up-to-date, links to external resources, and information about our Slack workspace.
 
@@ -12,7 +14,9 @@ Here are some newsletters that we recommend to stay informed about AI Safety:
 
 - **The Centre For AI Safety Newsletter**: This is a short and high quality weekly newsletter covering key events in AI with a particular focus on AI safety. Produced by the CAIS or Centre for AI Safety led by Dan Hendrycks. [Subscribe here](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnNhZmUuYWkvYWNjb3VudCIsInAiOjEzMTI4MzU4NiwicyI6MTQ4MTAwOCwiZiI6dHJ1ZSwidSI6OTI0OTg1NDQsImlhdCI6MTY4Nzg3NjIyOSwiZXhwIjoxNjkwNDY4MjI5LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.s9yvtlfrIXeNcSUBBuHOLCZxxyfLPU5pSXr87IZPpcg).
 
+## Recent News
 
+{% include video.html id="vvU3Dn_8sFI" %}
 
 ## External Resources
 
@@ -28,4 +32,16 @@ Here are some places to get started for reading further about AI risks:
 ## Join Our Slack Workspace
 
 We have a vibrant community discussing AI Safety on our Slack workspace. If you're interested in joining, please fill out [this interest form](https://forms.gle/D8Cf2LQR1rMNYkL87), and we'll get back to you as soon as possible.
+
+## Books
+
+[The Alignment Problem: Machine Learning and Human Values](https://www.goodreads.com/book/show/50489349-the-alignment-problem)
+
+[Human Compatible: Artificial Intelligence and the Problem of Control](https://www.goodreads.com/en/book/show/44767248)
+
+[Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/en/book/show/34272565)
+
+[Superintelligence: Paths, Dangers, Strategies](https://www.goodreads.com/en/book/show/20527133)
+
+[Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence](https://www.goodreads.com/en/book/show/50131136)
 
