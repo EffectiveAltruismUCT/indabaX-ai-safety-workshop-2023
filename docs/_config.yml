@@ -20,7 +20,7 @@ plugins:
 
 # Site settings
 url: 'https://effectivealtruismuct.github.io/indabaX-ai-safety-workshop-2023'
-baseurl: ''
+baseurl: 'https://effectivealtruismuct.github.io/indabaX-ai-safety-workshop-2023'
 title: 'First South African Workshop on AI Safety'
 description: '4th of July 2023 @ IndabaX South Africa'
 permalink: pretty
