@@ -19,6 +19,8 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
+url: 'https://effectivealtruismuct.github.io/indabaX-ai-safety-workshop-2023'
+baseurl: ''
 title: 'First South African Workshop on AI Safety'
 description: '4th of July 2023 @ IndabaX South Africa'
 permalink: pretty
@@ -36,9 +38,9 @@ navigation_header:
 - title: Home
   url: /
 - title: Resources
-  url: /resources
+  url: /resources/
 - title: Photos
-  url: /photos
+  url: /photos/
 
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   32: '/assets/images/robot_earth_32.png'
