@@ -6,7 +6,7 @@ feature_text:
 
 <img src="assets/images/EA_UCT_IndabaX.jpg"  width="400" height="200" alt="EA UCT at IndabaX South Africa">
 
-The First South African Workshop on AI Safety and Governance is a multi-disciplinary workshop organised by Effective Altruism UCT and will be hosted at IndabaX 2023. 
+The First South African Workshop on AI Safety and Governance is a multi-disciplinary workshop organised by Effective Altruism UCT and will be hosted at [IndabaX 2023](https://indabax.co.za). 
 
 # Program
 

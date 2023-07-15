@@ -24,6 +24,13 @@ description: '4th of July 2023 @ IndabaX South Africa'
 permalink: pretty
 logo: "/assets/images/robot_earth.png"
 
+# Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: Africa/Johannesburg # Timezone for blog posts and alike
+
 # Header nav
 navigation_header:
 - title: Home
