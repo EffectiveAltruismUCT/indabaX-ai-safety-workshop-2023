@@ -4,6 +4,8 @@ feature_image: "https://effectivealtruismuct.github.io/indabaX-ai-safety-worksho
 feature_text:
 ---
 
+Below are some photos from the workshop.
+
 ## Benjamin Delivering his Talk
 <img src="https://effectivealtruismuct.github.io/indabaX-ai-safety-workshop-2023/assets/images/ben_talk.jpeg" width="600" height="600" alt="Benjamin Delivering his talk at the IndabaX AI Safety Workshop">
 

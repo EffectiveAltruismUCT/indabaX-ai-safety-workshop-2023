@@ -1,10 +1,8 @@
-<!-- ---
+---
 title: "AI Safety Resources"
-feature_image: "assets/images/EA_UCT_IndabaX.jpg"
+feature_image: "https://effectivealtruismuct.github.io/indabaX-ai-safety-workshop-2023/assets/images/EA_UCT_IndabaX.jpg"
 feature_text:
---- -->
-
-# AI Safety Resources
+---
 
 Welcome to our AI Safety Resources page. Here you will find various resources to deepen your understanding of AI Safety, including newsletters to keep you up-to-date, links to external resources, and information about our Slack workspace.
 
