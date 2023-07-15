@@ -30,6 +30,8 @@ navigation_header:
   url: /
 - title: Resources
   url: /resources
+- title: Photos
+  url: /photos
 
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   32: '/assets/images/robot_earth_32.png'

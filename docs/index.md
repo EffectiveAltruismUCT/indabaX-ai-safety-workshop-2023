@@ -48,3 +48,8 @@ Ben, based in Cape Town, used to work as a machine learning engineer. He's now f
 # Resources
 
 Check out our [resources](https://effectivealtruismuct.github.io/indabaX-ai-safety-workshop-2023/resources/) for further reading and ways to connect further.
+
+# Financial Support
+The [Center for Effective Altruism](https://www.centreforeffectivealtruism.org/) kindly supported this event.
+
+<img src="assets/images/CEA_Logo_Blue.png" width="200" height="200" alt="CEA Logo">
