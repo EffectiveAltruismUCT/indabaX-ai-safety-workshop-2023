@@ -1,6 +1,6 @@
 ---
 title: "AI Safety Resources"
-feature_image: "https://effectivealtruismuct.github.io/indabaX-ai-safety-workshop-2023/assets/images/EA_UCT_IndabaX.jpg"
+feature_image: "https://effectivealtruismuct.github.io/indabaX-ai-safety-workshop-2023/assets/images/UCT.jpg"
 feature_text:
 ---
 
